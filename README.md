@@ -18,7 +18,7 @@ I aim to build AI systems that combine vision, language, and spatial understandi
 
 ### 1. [Video-to-Text / Text-to-Frame Retrieval (with TVING)](https://github.com/chunyudong/level2-cv-final-cv-08)  
 **Contribution:**  
-EDA, data cleansing, VLM-based labeling, VLM evaluation, text-to-frame pipeline design
+EDA, data cleansing, VLM-based data labeling, VLM evaluation, text-to-frame pipeline design
 
 ### 2. [Hand Bone Semantic Segmentation](https://github.com/chunyudong/level2-cv-semanticsegmentation-cv-11-lv3)  
 **Contribution:**  
@@ -30,11 +30,11 @@ EDA, data augmentation, hyperparameter tuning, fine-tuning
 
 ### 4. [Object Detection for Recycling Classification](https://github.com/chunyudong/level2-objectdetection-cv-08)  
 **Contribution:**  
-EDA, data augmentation, YOLO model training, TURTLE-based re-clustering, hyperparameter tuning, fine-tuning
+EDA, data augmentation, YOLO model evaluation, YOLO model training, TURTLE-based re-clustering by unsupervised transfer learning, hyperparameter tuning, fine-tuning
 
 ### 5. [Sketch Image Data Classification](https://github.com/chunyudong/level1-imageclassification-cv-08)  
 **Contribution:**  
-EDA, data augmentation, hyperparameter tuning, model training, fine-tuning
+EDA, data augmentation, hyperparameter tuning, model evaluation, model training, fine-tuning
 
 ### 6. [Text-to-Video Fine-Tuning for Machine Tool Manual Generation](https://github.com/chunyudong/T2V-Machine-tool-Fine-Tuning)  
 **Contribution:**  
