@@ -10,7 +10,7 @@ I aim to build AI systems that combine vision, language, and spatial understandi
 - **B.E. in Department of Industrial & Management Systems Engineering**, Kyung Hee University  
   *Mar. 2018 – Aug. 2024*  
 - **Naver Boostcamp AI Tech 7th**, Computer Vision Track  
-  *Aug. 2023 – Feb. 2025*
+  *Aug. 2024 – Feb. 2025*
 
 ---
 
