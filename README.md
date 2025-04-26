@@ -16,7 +16,7 @@ I aim to build AI systems that combine vision, language, and spatial understandi
 
 ## 🧩 Projects
 
-### 1. [Video-to-Text / Text-to-Frame Retrieval (with TVING)](https://github.com/chunyudong/level2-cv-final-cv-08)  
+### 1. [Video-to-Text / Text-to-Frame Retrieval (with TVING)](https://github.com/chunyudong/level4-cv-finalproject-hackathon-cv-11-lv3)  
 **Contribution:**  
 EDA, data cleansing, VLM-based data labeling, VLM evaluation, text-to-frame pipeline design
 
