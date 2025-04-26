@@ -44,6 +44,9 @@ LoRA fine-tuning, ComfyUI pipeline configuration, sampling strategy adjustment, 
 
 ## 🗣️ Language Skills
 
+- **OPIc (Oral Proficiency Interview, computer)**: IH
+  *Test Date: April 21, 2025*
+  
 - **TEPS (Test of English Proficiency developed by Seoul National University)**: 415  
   *Test Date: August 3, 2024*
 
