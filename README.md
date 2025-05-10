@@ -38,7 +38,7 @@ EDA, data augmentation, hyperparameter tuning, model evaluation, model training,
 
 ### 6. [Text-to-Video Fine-Tuning for Machine Tool Manual Generation](https://github.com/chunyudong/T2V-Machine-tool-Fine-Tuning)  
 **Contribution:**  
-LoRA fine-tuning, ComfyUI pipeline configuration, sampling strategy adjustment, hyperparameter tuning
+LoRA fine-tuning, ComfyUI pipeline configuration, hyperparameter tuning
 
 ---
 
